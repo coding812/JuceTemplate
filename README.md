@@ -3,7 +3,7 @@
 ## How to Clone
 To get this repo with the JUCE dependency included, run:
 ```bash
-git clone --recursive 
+git clone --recursive https://github.com/coding812/JuceTemplate
 ```
 ==================
 
